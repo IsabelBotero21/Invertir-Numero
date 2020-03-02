@@ -1,0 +1,11 @@
+C:\Users\XGAnalista2\parte2NumInverso\bin\Debug\netcoreapp3.1\parte2NumInverso.exe
+C:\Users\XGAnalista2\parte2NumInverso\bin\Debug\netcoreapp3.1\parte2NumInverso.deps.json
+C:\Users\XGAnalista2\parte2NumInverso\bin\Debug\netcoreapp3.1\parte2NumInverso.runtimeconfig.json
+C:\Users\XGAnalista2\parte2NumInverso\bin\Debug\netcoreapp3.1\parte2NumInverso.runtimeconfig.dev.json
+C:\Users\XGAnalista2\parte2NumInverso\bin\Debug\netcoreapp3.1\parte2NumInverso.dll
+C:\Users\XGAnalista2\parte2NumInverso\bin\Debug\netcoreapp3.1\parte2NumInverso.pdb
+C:\Users\XGAnalista2\parte2NumInverso\obj\Debug\netcoreapp3.1\parte2NumInverso.csprojAssemblyReference.cache
+C:\Users\XGAnalista2\parte2NumInverso\obj\Debug\netcoreapp3.1\parte2NumInverso.AssemblyInfoInputs.cache
+C:\Users\XGAnalista2\parte2NumInverso\obj\Debug\netcoreapp3.1\parte2NumInverso.AssemblyInfo.cs
+C:\Users\XGAnalista2\parte2NumInverso\obj\Debug\netcoreapp3.1\parte2NumInverso.dll
+C:\Users\XGAnalista2\parte2NumInverso\obj\Debug\netcoreapp3.1\parte2NumInverso.pdb
